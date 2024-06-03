@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="393" height="159.275" viewBox="0 0 393 159.275">
+  <defs>
+    <filter id="Ellipse_26" x="0" y="0" width="118" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_200" x="142" y="27" width="68" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_265" data-name="Group 265" transform="translate(-995 -748)">
+    <g id="Group_201" data-name="Group 201" transform="translate(482.83 178.673) rotate(-30)">
+      <line id="Line_2" data-name="Line 2" x2="5.002" y2="88.336" transform="translate(271.359 909.334)" fill="none" stroke="#008641" stroke-width="1"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 995, 748)" filter="url(#Ellipse_26)">
+      <circle id="Ellipse_26-2" data-name="Ellipse 26" cx="50" cy="50" r="50" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <text id="Course_accreditation_training_monitoring" data-name="Course accreditation
+&amp; training monitoring" transform="translate(1222 801)" fill="#2b2c95" font-size="16" font-family="Ubuntu-Bold, Ubuntu" font-weight="700"><tspan x="0" y="0">Course Accreditation</tspan><tspan x="0" y="18">&amp; Training Monitoring</tspan></text>
+    <g id="Group_121" data-name="Group 121" transform="translate(892 -89)">
+      <g transform="matrix(1, 0, 0, 1, 103, 837)" filter="url(#Path_200)">
+        <path id="Path_200-2" data-name="Path 200" d="M25,0A25,25,0,1,1,0,25,25,25,0,0,1,25,0Z" transform="translate(151 33)" fill="#2b2c95"/>
+      </g>
+      <text id="_7" data-name="7" transform="translate(279 902)" fill="#fff" font-size="18" font-family="Ubuntu-Regular, Ubuntu"><tspan x="-5" y="0">7</tspan></text>
+    </g>
+    <g id="noun_accredited_4361292" transform="translate(1026 776.341)">
+      <g id="Group_263" data-name="Group 263" transform="translate(3 3)">
+        <rect id="Rectangle_103" data-name="Rectangle 103" width="3" height="10" transform="translate(0 39.319)" fill="#2b2c95"/>
+        <path id="Path_272" data-name="Path 272" d="M51.37,41a4.37,4.37,0,1,0,4.37,4.37A4.375,4.375,0,0,0,51.37,41Zm-.191,6.664a.874.874,0,0,1-.635.326l-.048,0a.87.87,0,0,1-.618-.256L48.13,45.988l1.236-1.236,1.058,1.058L53.309,42.2l1.365,1.092Z" transform="translate(-9.236 -8.337)" fill="#2b2c95"/>
+        <path id="Path_273" data-name="Path 273" d="M23.858,46.614a.874.874,0,0,0,0-1.748H18.614a.875.875,0,0,1-.782-1.266l.946-1.89a6.756,6.756,0,0,0,.711-3.009,2.643,2.643,0,0,0-.278-1.176.95.95,0,0,0-1.78.239,13.476,13.476,0,0,1-2.567,5.607l-4.3,5.528a.874.874,0,0,1-.69.337H9V55.67A15.757,15.757,0,0,0,15.53,57.1h8.327a.874.874,0,0,0,0-1.748.874.874,0,0,1,0-1.748.874.874,0,1,0,0-1.748.874.874,0,0,1,0-1.748.874.874,0,0,0,0-1.748.874.874,0,1,1,0-1.748Z" transform="translate(-3.756 -7.966)" fill="#2b2c95"/>
+        <circle id="Ellipse_42" data-name="Ellipse 42" cx="3.496" cy="3.496" r="3.496" transform="translate(25.805 3.423)" fill="#2b2c95"/>
+        <path id="Path_274" data-name="Path 274" d="M40.283,19.513l.748-.747a.871.871,0,0,1,.894-.211l.742.246-1.642-3.694a5.241,5.241,0,0,1-1.809,1.206Z" transform="translate(-8.027 -4.684)" fill="#2b2c95"/>
+        <path id="Path_275" data-name="Path 275" d="M32.471,18.765l.748.747,1.066-3.2a5.254,5.254,0,0,1-1.809-1.206L30.834,18.8l.742-.246A.871.871,0,0,1,32.471,18.765Z" transform="translate(-6.863 -4.684)" fill="#2b2c95"/>
+        <path id="Path_276" data-name="Path 276" d="M51,4.414v7.5h7.5Z" transform="translate(-9.74 -3.178)" fill="#2b2c95"/>
+        <path id="Path_277" data-name="Path 277" d="M46.849,13.331a.867.867,0,0,1-.874-.861V3H25V38.3h.874A2.606,2.606,0,0,1,28.5,40.879a2.55,2.55,0,0,1-.669,1.722,2.549,2.549,0,0,1,0,3.444,2.55,2.55,0,0,1,.669,1.722H56.463V13.331ZM27.7,18.146l2.911-6.451a5.059,5.059,0,0,1-.364-1.879,5.244,5.244,0,0,1,10.488,0,5.059,5.059,0,0,1-.364,1.879l2.911,6.451a.851.851,0,0,1-.151.928.878.878,0,0,1-.924.238l-2.11-.692-1.366,1.345a.88.88,0,0,1-.618.253.934.934,0,0,1-.2-.022.872.872,0,0,1-.628-.566L35.7,14.97c-.073,0-.143.011-.216.011s-.144-.008-.216-.011L33.7,19.63a.872.872,0,0,1-.628.566.934.934,0,0,1-.2.022.882.882,0,0,1-.618-.252l-1.366-1.345-2.11.692a.878.878,0,0,1-.924-.238A.852.852,0,0,1,27.7,18.146Zm-.949,3.793H51.219v1.722H26.748Zm0,3.444H51.219V27.1H26.748Zm0,3.444H51.219v1.722H26.748Zm17.48,3.444v1.722H30.244V32.27ZM28.5,37.435H26.748V35.713H28.5Zm0-3.444H26.748V32.27H28.5Zm13.11,3.444H30.244V35.713H41.606ZM48.6,46.044a6.027,6.027,0,1,1,6.118-6.026A6.08,6.08,0,0,1,48.6,46.044Zm6.118-15.5H52.967V28.826h1.748Zm0-3.444H52.967V25.383h1.748Zm0-3.444H52.967V21.939h1.748Z" transform="translate(-6.463 -3)" fill="#2b2c95"/>
+      </g>
+    </g>
+  </g>
+</svg>

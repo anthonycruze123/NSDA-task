@@ -1,0 +1,54 @@
+//nsda_skills portal section start//
+    #nsda_portal{
+       padding: 20px 0px;
+       .portal_heading{
+        padding: 10px 0px;
+        h1{
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+            font-weight: bold;
+        }
+       }
+       .skills_portal{
+        background-color: $nsbg-color4;
+        border-radius: 20px;
+        width: 300px;
+        height: 260px;
+        text-align: center;
+        padding: 30px;
+        box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+        
+        img{
+            padding-bottom: 10px;
+        }
+        P{
+            font-size:17px;
+            font-weight: 800;
+            font-family: 'Times New Roman', Times, serif;
+        }
+      
+        .skill_link{
+           text-decoration: none;
+           padding: 20px 0px;
+           margin-left: 10px;
+           .btn_click{
+            text-decoration: none;
+            border: 1px solid blue;
+            padding: 6px;
+            margin-left: -23px;
+            text-transform: capitalize
+           }
+           :hover{
+            background-color: aqua;
+            color: #000;
+           
+           }
+           .list{
+            @extend .btn_click;
+            margin-left: 10px;
+           }
+        }
+       
+       }
+    }
+//nsda_skills portal section end//

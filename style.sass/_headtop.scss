@@ -1,0 +1,57 @@
+//nsda all base 
+
+//colors stock//
+
+$nsbg-color: #F2F2F2;
+$nsbg-color2: #A0C5E7;
+$nsbg-color3:#407C6A;
+$nsbg-color4:#40BAE1;
+$ns-color:#008641;
+$ns-color2:#DAFDFF;
+
+
+//heading top section start//
+        #heading_top{
+           margin: 5px;
+           border-bottom:1px solid  $nsbg-color2;
+           .head_img{
+                padding:10px 20px 0px;
+           }
+           .heading_text{
+            padding: 40px 0px;
+            p{
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                font-size: 20px;
+                color: $ns-color;
+            }
+           }
+           .head_img2{
+            padding: 5px;
+            img{
+                width: 90px;
+            }
+           }
+        }
+        header{
+            background-color: #ffffff;
+            nav{
+                text-decoration: none;
+                .custom_list{
+                    margin-left: auto;
+                    li{
+                       a{
+                            color:$ns-color;
+                       }
+                       :hover{
+                        color: #407C6A;
+                       }
+                    }
+                }
+                .nsda_drop:hover .nsda_dropmenu{
+                    display: block;
+                    background-color: $nsbg-color4;
+                    color: #000;
+                }
+            }
+        }
+//heading top section end//

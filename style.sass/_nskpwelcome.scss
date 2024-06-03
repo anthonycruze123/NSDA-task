@@ -1,0 +1,59 @@
+//nskp_welcome section start//
+        #nskp_welcome{
+            background-image: url(../images/Group\ 274.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            .nskp_img{
+                padding: 5px 0px;
+            }
+            .nskp_text{
+                padding: 115px 0px;
+                h1{
+                    text-align: center;
+                    color:$ns-color2;
+                }
+            }
+        }
+//nskp_welcome section end//
+
+//nskp_welcome info section start//
+            #nsda_info{
+                background-color:$ns-color; /* For browsers that do not support gradients */
+                background-image: linear-gradient($ns-color,$nsbg-color4);
+                .nsda_infotext{
+                    display: inline-flex;
+                }
+                .info_text{
+                  padding: 10px 10px;
+                  h1{
+                    font-size: 20px;
+                    font-weight: bold;
+                    color:white;
+                  }
+                  h2{
+                    font-size: 20px;
+                    font-weight: bold;
+                    color:white;
+                  }
+                }
+                .nsda_infotext2{
+                    display: inline-block;
+                    padding: 10px 2px;
+                }
+                .info_text2{
+                    display: inline-block;
+                    padding: 0px 10px;
+                    h1{
+                        font-size: 20px;
+                        font-weight: bold;
+                        color:white;
+                    }
+                    h2{
+                        font-size: 20px;
+                        font-weight: bold;
+                        color:white;
+                      }
+                }
+            }
+//nskp_welcome info section end// 
